@@ -1,7 +1,7 @@
 # cog-dev-cafe-mza
 COG Deployment for DevCafe Mendoza Talk 2024
 
-La presentación se puede encontrar [acá](docs/Presentación.pdfPresentación.pdf) 🤗.
+La presentación se puede encontrar [acá](docs/Presentación.pdf) 🤗.
 
 # 🤓 Prueba local
 ```
